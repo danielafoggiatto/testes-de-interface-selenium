@@ -1,5 +1,4 @@
 
-```md
 # Testes de Interface — Selenium
 
 Este repositório contém scripts de automação de testes de interface (UI) usando **Selenium WebDriver**, escritos para demonstrar diferentes formas de localizar elementos com *locators*.  

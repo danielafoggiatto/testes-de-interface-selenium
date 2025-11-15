@@ -47,7 +47,7 @@ Este repositório contém scripts de automação de testes de interface (UI) usa
    npm install        # para projetos JS  
    # ou  
    pip install -r requirements.txt  # para Python  
-````
+
 
 3. Baixe os drivers do navegador (ex: ChromeDriver) compatíveis com a versão do seu navegador.
 4. Execute os testes:
